@@ -1,18 +1,18 @@
 <div align="center">
 
-  <h1>Tailwind CSS Crash Course</h1>
+  <h1>Tailwind CSS Scrimba Course</h1>
   
   <p>
-    Responsive Tailwind CSS Landing Page
+    My solutions to the Tailwind CSS Scrimba Course challenges.
   </p>
   
 <!-- Badges -->
 <p>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Sa-YoorHeadley/Tailwind-CSS-Crash-Course" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/Sa-YoorHeadley/Tailwind-Scrimba-Course" alt="last update" />
   </a>
-  <a href="https://github.com/Sa-YoorHeadley/Tailwind-CSS-Crash-Course/issues/">
-    <img src="https://img.shields.io/github/issues/Sa-YoorHeadley/Tailwind-CSS-Crash-Course" alt="open issues" />
+  <a href="https://github.com/Sa-YoorHeadley/Tailwind-Scrimba-Course/issues/">
+    <img src="https://img.shields.io/github/issues/Sa-YoorHeadley/Tailwind-Scrimba-Course" alt="open issues" />
   </a>
 </p>
 </div>
@@ -20,7 +20,7 @@
 <br />
 
 ## Description 
-This is my responsive landing page solution to the Tailwind CSS Crash Course by Traversy Media.
+These are my solutions to the Tailwind CSS Scrimba Course challenges along with the other files I made during the tutorial.
 
 ### Concepts Used
 - Responsive Web Design
@@ -37,20 +37,56 @@ This is my responsive landing page solution to the Tailwind CSS Crash Course by 
 <br />
 
 <!-- Screenshot -->
-
+## Landing Page
 ### Desktop
 <div align="center"> 
-  <img src="https://github.com/Sa-YoorHeadley/Tailwind-CSS-Crash-Course/blob/main/assets/Preview-Desktop.PNG" alt="screenshot" />
+  <img src="https://github.com/Sa-YoorHeadley/Tailwind-Scrimba-Course/blob/main/assets/Landing-Page-Preview-Desktop.PNG" alt="screenshot" />
 </div>
 
 ### Mobile
 <div align="center"> 
-  <img src="https://github.com/Sa-YoorHeadley/Tailwind-CSS-Crash-Course/blob/main/assets/Preview-Mobile.PNG" alt="screenshot" />
+  <img src="https://github.com/Sa-YoorHeadley/Tailwind-Scrimba-Course/blob/main/assets/Landing-Page-Preview-Mobile.PNG" alt="screenshot" />
+</div>
+
+## Shades of Blue Challenge
+
+<div align="center"> 
+  <img src="https://github.com/Sa-YoorHeadley/Tailwind-Scrimba-Course/blob/main/assets/Shades-of-Blue-Challenge-Preview.PNG" alt="screenshot" />
+</div>
+
+## Styling Text Challenge
+
+<div align="center"> 
+  <img src="https://github.com/Sa-YoorHeadley/Tailwind-Scrimba-Course/blob/main/assets/Styling-Text-Challenge-Preview.PNG" alt="screenshot" />
+</div>
+
+## Buttons Challenge
+
+<div align="center"> 
+  <img src="https://github.com/Sa-YoorHeadley/Tailwind-Scrimba-Course/blob/main/assets/Buttons-Challenge-Preview.PNG" alt="screenshot" />
+</div>
+
+## Block Gallery Challenge
+
+<div align="center"> 
+  <img src="https://github.com/Sa-YoorHeadley/Tailwind-Scrimba-Course/blob/main/assets/Block-Gallery-Challenge-Preview.PNG" alt="screenshot" />
+</div>
+
+## Input Component Challenge
+
+<div align="center"> 
+  <img src="https://github.com/Sa-YoorHeadley/Tailwind-Scrimba-Course/blob/main/assets/Input-Component-Challenge-Preview.PNG" alt="screenshot" />
+</div>
+
+## Employee Card Challenge
+
+<div align="center"> 
+  <img src="https://github.com/Sa-YoorHeadley/Tailwind-Scrimba-Course/blob/main/assets/Employee-Card-Challenge-Preview.PNG" alt="screenshot" />
 </div>
 
 <br />
 
-> [Live URL](https://sa-yoorheadley.github.io/Tailwind-CSS-Crash-Course/)
+> [Live URL](https://sa-yoorheadley.github.io/Tailwind-Scrimba-Course/)
 
 <br />
 
@@ -60,13 +96,13 @@ This is my responsive landing page solution to the Tailwind CSS Crash Course by 
 Clone the project
 
 ```bash
-git clone https://github.com/Sa-YoorHeadley/Tailwind-CSS-Crash-Course.git
+git clone https://github.com/Sa-YoorHeadley/Tailwind-Scrimba-Course.git
 ```
 
 Go to the project directory
 
 ```bash
-cd Tailwind-CSS-Crash-Course
+cd Tailwind-Scrimba-Course
 ```
 
 Install all the npm packages. 
@@ -93,4 +129,4 @@ You can edit the scripts in package.json and the tailwind.config.js file to chan
 <!-- Acknowledgements -->
 ## Acknowledgements
 
-- [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME)
+- [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
